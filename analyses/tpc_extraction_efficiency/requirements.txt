@@ -1,0 +1,5 @@
+numpy
+awkward
+uproot
+dask
+dask-dirac
